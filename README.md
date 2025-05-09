@@ -45,14 +45,14 @@ Ma contribution a ce projet s'est portée sur l'analyse de ce dernier jeu de don
 
 Au cours du projet, nous avons dû rendre 3 compte-rendus individuels.
 
-<b>Rapport 1 :  Rapport d'Exploration et Prétraitement</b>, 37 pages
+<b>[Rapport 1 :  Rapport d'Exploration et Prétraitement](https://github.com/NicolasQuequet/data-analyst_climat/blob/main/Rapport%201%20-%20Nicolas%20Quequet.pdf)</b>, 37 pages
 
 Ce compte-rendu présente le jeu de données sur lequel j'ai travaillé, les nettoyages effectués, et une première analyse succinte avec des graphiques faits en Python (seaborn et matplotlib). 
 
-<b>Rapport 2 : Rapport de visualisation avancée des données</b>, 61 pages
+<b>[Rapport 2 : Rapport de visualisation avancée des données](https://github.com/NicolasQuequet/data-analyst_climat/blob/main/Rapport%202%20-%20Nicolas_Quequet.pdf)</b>, 61 pages
 
-Ce compte-rendu présente le travail effectué dans le rapport individuel Power BI (emissions_co2.pbix). Dans un premier temps, il traite de la préparation des données dans Power BI. Dans un deuxième temps, il présente les différentes pages du rapport Power BI en suivant une structure narrative. 
+Ce compte-rendu présente le travail effectué dans le rapport individuel Power BI ([emissions_co2.pbix](https://github.com/NicolasQuequet/data-analyst_climat/blob/main/Power%20BI/emissions_co2.pbix). Dans un premier temps, il traite de la préparation des données dans Power BI. Dans un deuxième temps, il présente les différentes pages du rapport Power BI en suivant une structure narrative. 
 
-<b>Rapport final</b>, 105 pages
+<b>[Rapport final](https://github.com/NicolasQuequet/data-analyst_climat/blob/main/Rapport%20Final%20-%20Nicolas%20Quequet.pdf)</b>, 105 pages
 
 Ce rapport final est une concaténation des deux rapports précédents, avec une modification de l'introduction, et l'ajout de précisions sur l'ensemble du projet dans la conclusion. 
