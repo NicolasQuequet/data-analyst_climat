@@ -33,7 +33,26 @@ Ainsi, je me suis, pour ma part, focalisé sur les données d'émissions de gaz 
 Les données proviennent des sources suivantes : 
 
  <b>NASA GISTEMP</b> — https://data.giss.nasa.gov/gistemp/
+ 
  <b>OWID Energy</b> — https://github.com/owid/energy-data
+ 
  <b>OWID CO₂</b> — https://github.com/owid/co2-data
 
 Ma contribution a ce projet s'est portée sur l'analyse de ce dernier jeu de données, concernant les émissions de CO2 et autres gaz à effet de serre.
+
+
+### Rapports individuels
+
+Au cours du projet, nous avons dû rendre 3 compte-rendus individuels.
+
+<b>Rapport 1 :  Rapport d'Exploration et Prétraitement</b>, 37 pages
+
+Ce compte-rendu présente le jeu de données sur lequel j'ai travaillé, les nettoyages effectués, et une première analyse succinte avec des graphiques faits en Python (seaborn et matplotlib). 
+
+<b>Rapport 2 : Rapport de visualisation avancée des données</b>, 61 pages
+
+Ce compte-rendu présente le travail effectué dans le rapport individuel Power BI (emissions_co2.pbix). Dans un premier temps, il traite de la préparation des données dans Power BI. Dans un deuxième temps, il présente les différentes pages du rapport Power BI en suivant une structure narrative. 
+
+<b>Rapport final</b>, 105 pages
+
+Ce rapport final est une concaténation des deux rapports précédents, avec une modification de l'introduction, et l'ajout de précisions sur l'ensemble du projet dans la conclusion. 
